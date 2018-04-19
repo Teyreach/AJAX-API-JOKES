@@ -1,2 +1,2 @@
-# zadanie12_4
-https://teyreach.github.io/zadanie12_4/
+# AJAX-API-JOKES
+https://teyreach.github.io/AJAX-API-JOKES/
